@@ -121,12 +121,7 @@ The multi-modal model (`MultiModalModel` class) integrates multiple data sources
 - **Graph Component**: Graph convolutional network for modeling product relationships.
 - **Fusion Layer**: Combines all modalities for final recommendation scores.
 
-## Screenshots
-![Homepage](images/homepage.png)
-![Recommendations Page](images/recommendations.png)
 
-## Contributing
-If you would like to contribute to this project, please fork the repository and submit a pull request.
 
 ## Future Enhancements
 
